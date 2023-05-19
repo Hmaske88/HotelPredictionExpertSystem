@@ -4,6 +4,7 @@ The hotel is predicted base on area, rent, stars, food, food type and discount.
 
 <b>Result:</b>
 
+<b>Input:</b>
 pune/mumbai :pune
 
 Expected Room Rent :10000
@@ -16,6 +17,7 @@ Food Type (veg/non-veg) :veg
 
 Discount (yes/no) :yes
 
+<b>Output:</b>
 Hotel :  The Golden Fork
 
 ***If like, please give a star to the repository***
