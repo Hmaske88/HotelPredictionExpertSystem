@@ -20,4 +20,4 @@ Discount (yes/no) :yes
 <b>Output:</b>
 Hotel :  The Golden Fork
 
-***If like, please give a star to the repository***
+***If like, please give a star &#9733 to the repository***
